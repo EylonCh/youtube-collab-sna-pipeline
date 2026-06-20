@@ -1,0 +1,16 @@
+# Data files (too large / not source code)
+*.db
+*.db-wal
+*.db-shm
+*.csv
+*.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Debug dumps
+debug_*.json
